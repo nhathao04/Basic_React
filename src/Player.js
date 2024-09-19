@@ -10,7 +10,7 @@ export default class player extends Component {
              <h3>Cristiano Ronaldo</h3>
              <p className="title">Manchester United</p>
              <p>
-               <button>Detail</button>
+               <button style={{background: 'black',color: 'white'}}>Detail</button>
              </p>
            </div>
     </div>
@@ -20,7 +20,7 @@ export default class player extends Component {
              <h3>Kante</h3>
              <p className="title">Chelsea</p>
              <p>
-               <button>Detail</button>
+               <button style={{background: 'black',color: 'white'}}>Detail</button>
              </p>
            </div>
     </div>
@@ -30,7 +30,7 @@ export default class player extends Component {
             <h3>Messi</h3>
             <p className="title">PSG</p>
             <p>
-              <button>Detail</button>
+              <button style={{background: 'black',color: 'white'}}>Detail</button>
             </p>
           </div>
     </div>
@@ -42,7 +42,7 @@ export default class player extends Component {
             <h3>Neymar</h3>
             <p className="title">PSG</p>
             <p>
-              <button>Detail</button>
+              <button style={{background: 'black',color: 'white'}}>Detail</button>
             </p>
           </div>
     </div>
@@ -52,7 +52,7 @@ export default class player extends Component {
             <h3>Kane</h3>
             <p className="title">Tottemham</p>
             <p>
-              <button>Detail</button>
+              <button style={{background: 'black',color: 'white'}}>Detail</button>
             </p>
           </div>
     </div>
@@ -61,8 +61,8 @@ export default class player extends Component {
             <img src='assets/images/haaland.jpg' alt="Haaland" />
             <h3>Haaland</h3>
             <p className="title">Manchester City</p>
-            <p>
-              <button>Detail</button>
+            <p style={{background: 'black'}}>
+              <button style={{background: 'black',color: 'white'}}>Detail</button>
             </p>
           </div>
     </div>
